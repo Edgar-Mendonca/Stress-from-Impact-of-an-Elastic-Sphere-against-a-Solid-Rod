@@ -1,0 +1,1 @@
+# Stress-from-Impact-of-an-Elastic-Sphere-against-a-Solid-Rod
