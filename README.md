@@ -1,5 +1,6 @@
 # Stress from Impact of an Elastic Sphere against a Solid Rod
-Deformation kinematics during the impact of a ball on a bar. This application provides a solution for Hertzian contact theory for the impact of a solid sphere against a solid bar. The solution is provided following a nonlinear differential equation governs the stress pulse created in the bar. The code is written in MATLAB. The user interface was developed using MATLAB's App Designer interface.
+Deformation kinematics during the impact of a ball on a bar. This application provides a solution for Hertzian contact theory for the impact of a solid sphere against a solid bar. The solution is provided following a nonlinear differential equation governs the stress pulse created in the bar. The code is written in MATLAB. The user interface was developed using MATLAB's App Designer interface.<br/>
+**Note**: Requires Symbolic Math Toolbox to Perform symbolic math computations downloadble from Matlab toolbox section.
 
 ## Nomenclature
 ![ballbarnom](https://user-images.githubusercontent.com/67676399/150388720-bbc97859-db05-4a5b-b21f-fa6d6bf17697.jpg)
